@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome! </br> I am a Fullstack Developer.<br>
-I have extensive experience in Javascript/Typescript, PHP and Python.<br>
-My highlight skills are:<br>
+<p>👋Welcome! </br> I am a Fullstack Developer.<br>
+🌱I have extensive experience in Javascript/Typescript, PHP and Python.<br>
+👀My highlight skills are:<br>
 - Backend: Node.js(ExpressJS, NestJS), C#(ASP.NET, .Net Core), PHP(Laravel, CI), Python(Django, Flask)<br>
 - Frontend: React, Vue.js, AngularJS<br>
 - Database: MySQL, SQL Server, MongoDB, PostgreSQL<br>
