@@ -2,7 +2,7 @@
 
 
 <p>Welcome! </br> I am a Fullstack Developer.<br>
-I have extensive experience in Javascript, C++, C#, PHP and Python.<br>
+I have extensive experience in Javascript/Typescript, PHP and Python.<br>
 My highlight skills are:<br>
 - Backend: Node.js(ExpressJS, NestJS), C#(ASP.NET, .Net Core), PHP(Laravel, CI), Python(Django, Flask)<br>
 - Frontend: React, Vue.js, AngularJS<br>
